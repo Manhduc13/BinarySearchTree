@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\C++\Data Structure\BST\main.cpp(8,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BST.vcxproj -> D:\C++\Data Structure\ITP\x64\Debug\BST.exe
